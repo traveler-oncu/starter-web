@@ -15,5 +15,6 @@ One I never added nor committed.
 adding a change for cr1, the first change.
 adding change for auto merge.
 
-Adding changes on master to rebase., then more changes from my cr3 branch too.
-Adding changes for stashing, this is LEVEL2
+
+
+Adding changes again for stashing, LEVEL3
