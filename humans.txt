@@ -14,4 +14,4 @@ first change
 
     HTML5, CSS3
     jQuery, Modernizr
-Adding for stash LEVEL1
+Changes for multiple stash
